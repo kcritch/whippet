@@ -1,2 +1,2 @@
-# whippet
-A Node / Gulp boilerplate
+# WHIP IT
+A node boilerplate.
