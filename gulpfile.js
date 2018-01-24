@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 	sass = require('gulp-sass'),
 	autoprefixer = require('gulp-autoprefixer'),
 	connect = require('gulp-connect'),
-    babel = require('babelify'),
+    babelify = require('babelify'),
     // babeles6 = require('babel-preset-es2015'),
     browserify = require('gulp-bro');
 
