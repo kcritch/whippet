@@ -6,7 +6,8 @@ var gulp = require('gulp'),
 	connect = require('gulp-connect'),
     babelify = require('babelify'),
     // babeles6 = require('babel-preset-es2015'),
-    browserify = require('gulp-bro');
+    browserify = require('gulp-bro'),
+    jquery = require('jquery');
 
 gulp.task('css', function() { 
     return gulp.src('./scss/*.scss')
