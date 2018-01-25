@@ -1,7 +1,8 @@
 import $ from 'jquery';
 
-function $(init) {
+function init () {
 
-	console.log('Hello you cunt');
+console.log('Hello you cunt');
 
-};
+}
+

@@ -10375,7 +10375,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function init() {
 
-	console.log('Hello you cunt');
-};
+  console.log('Hello you cunt');
+}
 
 },{"jquery":1}]},{},[2]);
