@@ -10375,7 +10375,13 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function init() {
 
-  console.log('Hello you cunt');
-}
+  console.log('Hello you legend');
+};
+
+/**
+ * Call `init` when the DOMReady event has fired
+ */
+
+(0, _jquery2.default)(init);
 
 },{"jquery":1}]},{},[2]);
